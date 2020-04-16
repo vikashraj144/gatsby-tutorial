@@ -7,5 +7,19 @@
     "build": "gatsby build",
     "clean": "gatsby clean",
     "develop": "gatsby develop"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.20.23",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "gatsby": "^2.20.23",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "dependencies": {
+    "gatsby-source-filesystem": "^2.2.3",
+    "gatsby-transformer-yaml": "^2.3.2"
   }
 }
